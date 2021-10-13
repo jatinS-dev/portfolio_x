@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio_x/static/css/main.b57bef10.chunk.css",
+    "main.js": "/portfolio_x/static/js/main.c8da1071.chunk.js",
+    "main.js.map": "/portfolio_x/static/js/main.c8da1071.chunk.js.map",
+    "runtime-main.js": "/portfolio_x/static/js/runtime-main.b5452667.js",
+    "runtime-main.js.map": "/portfolio_x/static/js/runtime-main.b5452667.js.map",
+    "static/js/2.8103befe.chunk.js": "/portfolio_x/static/js/2.8103befe.chunk.js",
+    "static/js/2.8103befe.chunk.js.map": "/portfolio_x/static/js/2.8103befe.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/portfolio_x/static/css/3.df879eac.chunk.css",
+    "static/js/3.b6a4d920.chunk.js": "/portfolio_x/static/js/3.b6a4d920.chunk.js",
+    "static/js/3.b6a4d920.chunk.js.map": "/portfolio_x/static/js/3.b6a4d920.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/portfolio_x/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.6c737a57.chunk.js": "/portfolio_x/static/js/4.6c737a57.chunk.js",
+    "static/js/4.6c737a57.chunk.js.map": "/portfolio_x/static/js/4.6c737a57.chunk.js.map",
+    "index.html": "/portfolio_x/index.html",
+    "precache-manifest.07ea613268f3a72cee97db14633013b5.js": "/portfolio_x/precache-manifest.07ea613268f3a72cee97db14633013b5.js",
+    "service-worker.js": "/portfolio_x/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/portfolio_x/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/portfolio_x/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.b57bef10.chunk.css.map": "/portfolio_x/static/css/main.b57bef10.chunk.css.map",
+    "static/js/2.8103befe.chunk.js.LICENSE.txt": "/portfolio_x/static/js/2.8103befe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio_x/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/FREELANCE.png": "/portfolio_x/static/media/FREELANCE.88d3bbd4.png",
+    "static/media/IMAGEP.png": "/portfolio_x/static/media/IMAGEP.c2534794.png",
+    "static/media/JOOMLA.png": "/portfolio_x/static/media/JOOMLA.cbd194e8.png",
+    "static/media/SUMMER.png": "/portfolio_x/static/media/SUMMER.e9345a7f.png",
+    "static/media/VES.png": "/portfolio_x/static/media/VES.08fc0de4.png",
+    "static/media/VJTI.png": "/portfolio_x/static/media/VJTI.1262d311.png",
+    "static/media/ZOOM.png": "/portfolio_x/static/media/ZOOM.2ff68220.png",
+    "static/media/contactMailDark.svg": "/portfolio_x/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/portfolio_x/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/portfolio_x/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfolio_x/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/portfolio_x/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5452667.js",
+    "static/js/2.8103befe.chunk.js",
+    "static/css/main.b57bef10.chunk.css",
+    "static/js/main.c8da1071.chunk.js"
+  ]
+}
